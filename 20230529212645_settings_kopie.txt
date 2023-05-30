@@ -39,7 +39,5 @@
     "image_strength_schedule": "0:(0.75)",
     "fps": 15,
     "make_gif": false,
-    "delete_imgs": true,
-    "sd_model_name": "realisticVisionV20_v20.safetensors",
-    "sd_model_hash": "69677096"
+    "delete_imgs": true
 }
